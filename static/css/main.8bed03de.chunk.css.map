@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,YAAa,CACb,cAAe,CACf,aAAA,CAAA,QAAS,CALX,QAQI,iBAAkB","file":"main.8bed03de.chunk.css","sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n  padding: 5% 10%;\n  gap: 40px;\n\n  & h1 {\n    align-self: center;\n  }\n}\n"]}
